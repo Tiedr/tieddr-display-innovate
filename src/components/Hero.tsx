@@ -1,6 +1,6 @@
 import { Button } from "@/components/ui/button";
 import { motion } from "framer-motion";
-import { Headphones, Earbuds } from "lucide-react";
+import { Headphones, Music } from "lucide-react";
 
 export const Hero = () => {
   return (
@@ -51,7 +51,7 @@ export const Hero = () => {
           {[
             { name: "Hub", icon: <Headphones className="w-8 h-8" />, color: "from-red-500" },
             { name: "Krafti", icon: <Headphones className="w-8 h-8" />, color: "from-orange-500" },
-            { name: "Music", icon: <Headphones className="w-8 h-8" />, color: "from-purple-500" },
+            { name: "Music", icon: <Music className="w-8 h-8" />, color: "from-purple-500" },
             { name: "Dexina", icon: <Headphones className="w-8 h-8" />, color: "from-purple-600" }
           ].map((product) => (
             <motion.div
