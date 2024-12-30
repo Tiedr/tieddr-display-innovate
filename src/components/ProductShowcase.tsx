@@ -71,7 +71,7 @@ export const ProductShowcase = () => {
                 <p className="text-gray-400 mb-4">{product.description}</p>
                 <Button
                   variant="outline"
-                  className="border-white/10 text-white hover:bg-white/10 hover:text-white"
+                  className="border-purple-500 text-purple-500 hover:bg-purple-500 hover:text-white"
                 >
                   Learn More
                 </Button>

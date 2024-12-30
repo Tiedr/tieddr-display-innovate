@@ -3,6 +3,8 @@ import { Navbar } from "@/components/Navbar";
 import { ProductShowcase } from "@/components/ProductShowcase";
 import { HubSection } from "@/components/HubSection";
 import { MusicBanner } from "@/components/MusicBanner";
+import { XCloudBanner } from "@/components/XCloudBanner";
+import { FAQ } from "@/components/FAQ";
 import { Footer } from "@/components/Footer";
 
 const Index = () => {
@@ -13,6 +15,8 @@ const Index = () => {
       <ProductShowcase />
       <HubSection />
       <MusicBanner />
+      <XCloudBanner />
+      <FAQ />
       <Footer />
     </div>
   );

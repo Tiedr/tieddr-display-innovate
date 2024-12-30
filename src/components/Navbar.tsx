@@ -37,7 +37,7 @@ export const Navbar = () => {
               </a>
             ))}
             <Button className="bg-purple-600 hover:bg-purple-700">
-              Contact Us
+              Login
             </Button>
           </div>
         </div>
