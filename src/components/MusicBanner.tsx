@@ -1,6 +1,5 @@
 import { Button } from "@/components/ui/button";
 import { motion } from "framer-motion";
-import { Music } from "lucide-react";
 
 export const MusicBanner = () => {
   return (
@@ -29,7 +28,7 @@ export const MusicBanner = () => {
           <div className="relative">
             <div className="absolute inset-0 bg-purple-600/20 blur-3xl rounded-full"></div>
             <img
-              src="/music-app.png"
+              src="https://images.unsplash.com/photo-1470225620780-dba8ba36b745?q=80&w=1000&auto=format&fit=crop"
               alt="Tieddr Music Interface"
               className="relative rounded-lg shadow-2xl border border-purple-500/20"
             />

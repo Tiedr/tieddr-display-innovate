@@ -47,7 +47,7 @@ export const HubSection = () => {
           >
             <div className="absolute inset-0 bg-purple-600/20 blur-3xl rounded-full"></div>
             <img
-              src="/hub-interface.png"
+              src="https://images.unsplash.com/photo-1551434678-e076c223a692?q=80&w=1000&auto=format&fit=crop"
               alt="Hub Interface"
               className="relative rounded-lg shadow-2xl border border-white/10"
             />

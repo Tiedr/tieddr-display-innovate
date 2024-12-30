@@ -47,23 +47,23 @@ export const Hero = () => {
               <CarouselContent>
                 <CarouselItem>
                   <img
-                    src="/headphones-1.png"
+                    src="https://images.unsplash.com/photo-1505740420928-5e560c06d30e?q=80&w=1000&auto=format&fit=crop"
                     alt="SlimBud X Zero - Front View"
-                    className="w-full h-auto"
+                    className="w-full h-auto rounded-lg"
                   />
                 </CarouselItem>
                 <CarouselItem>
                   <img
-                    src="/headphones-2.png"
+                    src="https://images.unsplash.com/photo-1583394838336-acd977736f90?q=80&w=1000&auto=format&fit=crop"
                     alt="SlimBud X Zero - Side View"
-                    className="w-full h-auto"
+                    className="w-full h-auto rounded-lg"
                   />
                 </CarouselItem>
                 <CarouselItem>
                   <img
-                    src="/earbuds.png"
+                    src="https://images.unsplash.com/photo-1590658268037-6bf12165a8df?q=80&w=1000&auto=format&fit=crop"
                     alt="XBud 1Pro"
-                    className="w-full h-auto"
+                    className="w-full h-auto rounded-lg"
                   />
                 </CarouselItem>
               </CarouselContent>

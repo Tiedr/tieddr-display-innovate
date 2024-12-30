@@ -1,6 +1,5 @@
 import { Button } from "@/components/ui/button";
 import { motion } from "framer-motion";
-import { Cloud } from "lucide-react";
 
 export const XCloudBanner = () => {
   return (
@@ -28,7 +27,7 @@ export const XCloudBanner = () => {
           <div className="relative">
             <div className="absolute inset-0 bg-purple-600/20 blur-3xl rounded-full"></div>
             <img
-              src="/xcloud-interface.png"
+              src="https://images.unsplash.com/photo-1544197150-b99a580bb7a8?q=80&w=1000&auto=format&fit=crop"
               alt="XCloud Interface"
               className="relative rounded-lg shadow-2xl border border-purple-500/20"
             />
