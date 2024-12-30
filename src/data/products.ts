@@ -1,0 +1,42 @@
+export const products = [
+  {
+    id: "slimbud-x-zero",
+    name: "SlimBud X Zero",
+    description: "Premium wireless headphones with active noise cancellation, delivering crystal clear audio and exceptional comfort for extended listening sessions.",
+    price: 299.99,
+    image: "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?q=80&w=1000&auto=format&fit=crop",
+    category: "Hardware",
+  },
+  {
+    id: "xbud-1pro",
+    name: "XBud 1Pro",
+    description: "True wireless earbuds with immersive sound quality, featuring touch controls and a compact charging case for on-the-go convenience.",
+    price: 199.99,
+    image: "https://images.unsplash.com/photo-1590658268037-6bf12165a8df?q=80&w=1000&auto=format&fit=crop",
+    category: "Hardware",
+  },
+  {
+    id: "hub-pro",
+    name: "Hub Pro License",
+    description: "Advanced collaborative workspace solution for teams, including real-time editing, project management, and integrated communication tools.",
+    price: 49.99,
+    image: "https://images.unsplash.com/photo-1551434678-e076c223a692?q=80&w=1000&auto=format&fit=crop",
+    category: "Software",
+  },
+  {
+    id: "music-premium",
+    name: "Music Premium",
+    description: "Unlimited access to millions of songs, custom playlists, and exclusive content with high-quality audio streaming.",
+    price: 14.99,
+    image: "https://images.unsplash.com/photo-1470225620780-dba8ba36b745?q=80&w=1000&auto=format&fit=crop",
+    category: "Subscription",
+  },
+  {
+    id: "xcloud-storage",
+    name: "XCloud Storage",
+    description: "Secure cloud storage solution with 2TB capacity, automatic sync, and advanced file sharing capabilities.",
+    price: 9.99,
+    image: "https://images.unsplash.com/photo-1544197150-b99a580bb7a8?q=80&w=1000&auto=format&fit=crop",
+    category: "Service",
+  },
+];
